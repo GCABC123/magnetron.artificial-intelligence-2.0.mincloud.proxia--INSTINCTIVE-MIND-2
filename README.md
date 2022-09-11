@@ -31,7 +31,7 @@ REQUIREMENTS:
 
 This is a Google Colab/Jupyter Notebook for developing (one possible scheme for) an OBJECT DETECTION proxia when working with ARTIFICIAL INTELLIGENCE 2.0 ™ 
 (ARTIFICIAL INTELLIGENCE 2.0™ is part of MAGNETRON ™ TECHNOLOGY). The machine running the Notebook will be a MINDCLOUD on which you will be
-developing a PROXIA to detect objects in IMAGES.
+developing a PROXIA to detect objects in IMAGES (for example: pictures from social media platforms).
 
 e.g This INSTINCTIVE MIND MINDCLOUD  PROXIA can be used to process INFORMATION from the real world via the eye cameras and then send information about the objects detected to the IMAGINATION proxia on ASTRAL MINDCLOUD for the robot to IMAGINE it in different scenarios to better understand what it is and how people see it. So for example if the ROBOT detects a cup with the OBJECT DETECTION on the INSTINCTIVE MIND PROXIA it can imagine a cup in some typical or unusual scenarios (On ASTRAL PROXIA) to better understand what it is and how humans see it.
 
